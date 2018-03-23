@@ -6,7 +6,7 @@ This is what I made, I couldn't finish all the exercises. I worked in Phyton.
 
 Best wishes,
 
-Zsuzsi
+Zsuzsa
 
 1.Create a function that takes a list of numbers as parameter and returns the average value of the odd
 numbers in the list.
