@@ -3,7 +3,9 @@
 Hello,
 
 This is what I made, I couldn't finish all the exercises. I worked in Phyton.
+
 Best wishes,
+
 Zsuzsi
 
 1.Create a function that takes a list of numbers as parameter and returns the average value of the odd
@@ -36,12 +38,17 @@ numbers in the list.
 
 2. Create a function that takes a text as a parameter and returns an encoded version of the text according
 to the following algorithm:
+
 ● each letter in the text is replaced by a letter some fixed number of positions up in the alphabet
+
 ● the number of this shifting positions equals to the number of occurrences of the first letter in
 the whole text
+
 ● the algorithm works with lower case letters, it modifies upper case letters to lower case ones as
 well
+
 ● the special characters (e.g. spaces, exclamation mark, ...) remain the same
+
 ● shifting a letter towards the end of the alphabet continues from the beginning of the alphabet (
 z → a)
 
@@ -60,19 +67,28 @@ z → a)
 Create a Card class, that has a color and a value.
 Create a constructor for setting those values
 Card should be represented as string in this format:
+
 ● 9 Hearts
+
 ● Jack Diamonds
 
 Deck class
 Create a Deck class, that has a list of cards in it.
+
 Create a constructor that takes a whole number as parameter.
+
 The constructor should fill the list with the number of different cards using at least 4 different colors
 (except if the number given is smaller than four, than all cards should have different colors).
+
 We should be able to shuffle the deck, which randomly orders the cards.
+
 We should be able to draw the top card which returns the drawn card and also removes it from the
 deck.
+
 Each card only occurs once in the deck.
+
 Deck should be represented as string in this format:
+
 ● 12 cards - 3 Clubs, 3 Diamonds, 3 Hearts, 3 Spades
 
 I didn't have time to do this task, so I looked for a solution on Stockoverflow and studied it.
