@@ -2,7 +2,7 @@
 
 Hello,
 
-Unfortunately I couldn't finish all of the exercises, this is what I made, I worked in Phyton.
+I couldn't finish all of the exercises, this is what I made, I worked in Phyton.
 Best wishes,
 Zsuzsi
 
