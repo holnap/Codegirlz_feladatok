@@ -75,7 +75,7 @@ Each card only occurs once in the deck.
 Deck should be represented as string in this format:
 ● 12 cards - 3 Clubs, 3 Diamonds, 3 Hearts, 3 Spades
 
-I didn't have time to do this task, so I looked for a sollution on Stockoverflow and I studied it.
+I didn't have time to do this task, so I looked for a solution on Stockoverflow and studied it.
 
 	def __init__(self, rank, suit):
 
