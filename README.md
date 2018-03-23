@@ -1,9 +1,9 @@
 # Codegirlz_feladatok
 
-Sziasztok,
+Hello,
 
-Ennyire volt időm. Pythonban dolgoztam.
-Üdv,
+Unfortunately I couldn't finish all of the exercises, this is what I made, I worked in Phyton.
+Best wishes,
 Zsuzsi
 
 1.Create a function that takes a list of numbers as parameter and returns the average value of the odd
@@ -62,6 +62,7 @@ Create a constructor for setting those values
 Card should be represented as string in this format:
 ● 9 Hearts
 ● Jack Diamonds
+
 Deck class
 Create a Deck class, that has a list of cards in it.
 Create a constructor that takes a whole number as parameter.
@@ -74,7 +75,7 @@ Each card only occurs once in the deck.
 Deck should be represented as string in this format:
 ● 12 cards - 3 Clubs, 3 Diamonds, 3 Hearts, 3 Spades
 
-Ennél csak addig jutottam, hogy találtam rá egy kész kódot és értelmeztem. Ezt:
+I didn't have time to do this task, so I looked for a sollution on Stockoverflow and I studied it.
 
 	def __init__(self, rank, suit):
 
